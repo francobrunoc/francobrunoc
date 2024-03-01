@@ -4,9 +4,9 @@
 <!-- GIF HEADER -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
-<div align="center" style="font-weight: bold; font-size: 24px; margin: 10px 0;">
+<h3 align="center" style="margin: 10px 0;">
     Hi there! 👋
-</div>
+</h3>
 
 <!-- BREVE DESCRIPCION -->
 
