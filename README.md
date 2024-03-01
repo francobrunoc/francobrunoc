@@ -4,17 +4,19 @@
 <!-- GIF HEADER -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
-## Hi there! 👋
+<div align="center" style="font-weight: bold; font-size: 24px; margin: 10px 0;">
+    Hi there! 👋
+</div>
 
 <!-- BREVE DESCRIPCION -->
 
 - 📚 I am a software developer with roots on hardware
 
-- 🌱 I am currently working on updating legacy projects
+- 🌱 Currently working on updating legacy projects for my clients
 
 - 🏙 Developer of the [LATAM CTO Registry](https://latamctoregistry.com) analytics portal
 
-- 📫 How to reach me **francobrunoc@gmail.com**
+- 📫 Reach me at **francobrunoc@gmail.com**
 
 <!-- CONTACTO -->
 <h3 align="left">Connect with me:</h3>
